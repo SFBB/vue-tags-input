@@ -352,9 +352,9 @@ export default {
 
       // We check if the original and the copied and validated tags are equal →
       // Update the parent if not and sync is on.
-      if (this.$attrs['update:tags'] && !this.tagsEqual()) {
-        this.$emit('update:tags', this.tagsCopy);
-      }
+      // if (this.$attrs['update:tags'] && !this.tagsEqual()) {
+      //   this.$emit('update:tags', this.tagsCopy);
+      // }
     },
     blurredOnClick(e) {
       // if the click occurs on tagsinput → don't hide
