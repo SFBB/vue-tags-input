@@ -57,7 +57,7 @@
 </template>
 
 <script>
-import VueTagsInput from '@SFBB/vue-tags-input';
+import VueTagsInput from '@sfbb/vue-tags-input';
 import Ie from '@components/icons/ie';
 import Safari from '@components/icons/safari';
 import Edge from '@components/icons/edge';

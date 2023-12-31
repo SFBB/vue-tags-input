@@ -53,7 +53,7 @@
 </template>
 
 <script>
-import VueTagsInput from '@SFBB/vue-tags-input';
+import VueTagsInput from '@sfbb/vue-tags-input';
 import ElCode from '@components/el-code';
 
 export default {

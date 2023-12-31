@@ -109,7 +109,7 @@ module.exports = {
     extensions: ['.js', '.vue'],
     alias: {
       '@components': resolve('../docs/components'),
-      '@SFBB/vue-tags-input': resolve('../vue-tags-input/vue-tags-input.vue'),
+      '@sfbb/vue-tags-input': resolve('../vue-tags-input/vue-tags-input.vue'),
       '@tag-input': resolve('../vue-tags-input/tag-input.vue'),
       'colors': resolve('../docs/colors.scss'),
       'vue$': 'vue/dist/vue.esm.js',

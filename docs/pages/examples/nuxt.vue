@@ -9,7 +9,7 @@
 
       <el-code class="javascript">
         <code>import Vue from 'vue';
-import VueTagsInput from '@SFBB/vue-tags-input';
+import VueTagsInput from '@sfbb/vue-tags-input';
 
 Vue.use(VueTagsInput);
         </code>
@@ -23,7 +23,7 @@ Vue.use(VueTagsInput);
       <el-code class="javascript">
         <code>plugins: [{ src: '~/plugins/vue-tags-input', ssr: false }],
 build: {
-vendor: ['@SFBB/vue-tags-input'],
+vendor: ['@sfbb/vue-tags-input'],
 // more config
 }
         </code>

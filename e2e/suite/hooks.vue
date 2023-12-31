@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import VueTagsInput from '@SFBB/vue-tags-input';
+import VueTagsInput from '@sfbb/vue-tags-input';
 
 export default {
   name: 'Hooks',
